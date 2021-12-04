@@ -8,4 +8,4 @@ These models are coded using python.
 
 The images used for training and testing images used are dogs, pandas and cats. The training size is 9000 images in total and the testing size is 2696 in total. The final accuracy achieved is 94 percent. The proportion of the training data used.
 
-A jupyter notebook is submitted along with the 2 datasets- training and test data called animal_train and animal_test respectively with each output shown clearly.
+A jupyter notebook named Image-classification-CNN-Keras-VGG16.ipynb :  https://github.com/RochelleAllan/CISC-865/blob/main/Image-classification-CNN-Keras-VGG16.ipynb is submitted along with the 2 datasets- training and test data called animal_train and animal_test respectively with each output shown clearly.
