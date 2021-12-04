@@ -9,3 +9,14 @@ These models are coded using python.
 The images used for training and testing images used are dogs, pandas and cats. The training size is 9000 images in total and the testing size is 2696 in total. The final accuracy achieved is 94 percent. The proportion of the training data used.
 
 A jupyter notebook named Image-classification-CNN-Keras-VGG16.ipynb :  https://github.com/RochelleAllan/CISC-865/blob/main/Image-classification-CNN-Keras-VGG16.ipynb is submitted along with the 2 datasets- training and test data called animal_train and animal_test respectively with each output shown clearly.
+
+The noteboook takes on the following process to classify images: 
+implementing CNN with Keras in order to classify images.
+1. Import useful libraries and packages
+2. The data is loaded from animal_train and animal_test folders
+3. Explore the dataset
+4. A simple CNN with Keras model is built 
+5. The above model is evaluated
+6. To improve the accuracy with which test images are correctly classified, pre-trained fine-tuned VGG16 is used
+7. The above model is evaluated
+8. PCA projection shown
