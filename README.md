@@ -6,7 +6,7 @@ Convolutional networks in itself is a class of deep learning and plays a huge ro
 In the case of image classification, the best way to validate the models are to check the accuracy with which a model correctly assigns the right label for a given input image. The performance is evaluated and the focus moves to using pre-trained VGG16 to extract features and address this challenge. VGG-16 is a type of CNN which is fine tuned and achieves a much better accuracy. 
 These models are coded using python.
 
-The images used for training and testing images used are dogs, pandas and cats. The training size is 9000 images in total and the testing size is 2696 in total. The final accuracy achieved is 94 percent. The proportion of the training data used.
+The images used for training and testing images used are dogs, pandas and cats. The training size is 9000 images in total and the testing size is 2696 in total. The test accuracy achieved is 91 percent with the VGG16 model.
 
 A jupyter notebook named Image-classification-CNN-Keras-VGG16.ipynb :  https://github.com/RochelleAllan/CISC-865/blob/main/Image-classification-CNN-Keras-VGG16.ipynb is submitted along with the 2 datasets- training and test data called animal_train and animal_test respectively with each output shown clearly.
 
@@ -20,3 +20,6 @@ implementing CNN with Keras in order to classify images.
 6. To improve the accuracy with which test images are correctly classified, pre-trained fine-tuned VGG16 is used
 7. The above model is evaluated
 8. PCA projection shown
+
+
+The report pdf is also in the repository : https://github.com/RochelleAllan/CISC-865/blob/main/PROJECT-REPORT-RochelleAllan.pdf
