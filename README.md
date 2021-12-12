@@ -22,4 +22,4 @@ implementing CNN with Keras in order to classify images.
 8. PCA projection shown
 
 
-The report pdf is also in the repository : https://github.com/RochelleAllan/CISC-865/blob/main/PROJECT-REPORT-RochelleAllan.pdf
+The report pdf is also in the repository : https://github.com/RochelleAllan/CISC-865/blob/main/PROJECT%20REPORT-ROCHELLE%20ALLAn.pdf
